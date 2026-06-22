@@ -1,4 +1,5 @@
 # CLib
+![downloads](https://cf.way2muchnoise.eu/405873.svg)  
 A Minecraft Forge 1.16.3 mod adding common materials, ores, and utilities for mod compatibility.
 
 ## Download
